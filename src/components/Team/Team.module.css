@@ -1,0 +1,17 @@
+.team{
+    flex: 2;
+    text-align: center;
+    /* border: 1px solid red; */
+}
+
+.team img{
+    height: 30px;
+    width: 30px;
+}
+
+.status{
+    display: flex;
+    justify-content: center;
+    font-size: .6rem;
+    color: #ccc;
+}

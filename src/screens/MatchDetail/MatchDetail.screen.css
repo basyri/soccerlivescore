@@ -1,0 +1,6 @@
+.line li{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid red;
+    font-size: .6rem;
+}

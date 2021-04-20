@@ -1,0 +1,30 @@
+.info{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 6rem;
+}
+
+.score{
+    font-size: 1.2rem;
+    margin-bottom: .5rem;
+
+}
+
+.ellapsed{
+    margin-top: .3rem;
+}
+
+.info span{
+    height: 2px;
+    width: 20%;
+    background: red;
+}
+
+.info .minutes{
+    color: #ccc;
+    font-size: .6rem;
+}
